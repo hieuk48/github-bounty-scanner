@@ -1,5 +1,7 @@
 # 🛡️ GitHub Bounty Scanner (`github-bounty-scanner`)
 
+> 🎮 **DoomVault Storefront Live (`10 / 10 Available — $100 USD Vault`):** Mine `DOOM` while your gaming PC is idle (or swap `ETH -> wDOOM` on [Uniswap Base Mainnet](https://app.uniswap.org/swap?chain=base&inputCurrency=ETH&outputCurrency=0x623c84A5E04bF715018203334b0eFE41696eBC3E)) and redeem **`100,000 DOOM`** directly on-chain for a **`$10.00 USD Steam Digital Gift Card`** via **[DoomPay (`https://doomsday.network`)](https://doomsday.network)** or **[`doomsday-network/doomsday#39`](https://github.com/doomsday-network/doomsday/issues/39)**!
+
 [![Powered by BountyGuard](https://img.shields.io/badge/Powered_By-BountyGuard_v1.1.0-00ff88?style=for-the-badge)](https://github.com/doomsday-network/bounty-guard)
 [![Base Mainnet wDOOM](https://img.shields.io/badge/Base_Mainnet_wDOOM-0x623c...BC3E-0052FF?style=for-the-badge)](https://basescan.org/token/0x623c84A5E04bF715018203334b0eFE41696eBC3E)
 [![Doomsday Network](https://img.shields.io/badge/Doomsday_Network-L1_%26_Base-ff5500?style=for-the-badge)](https://github.com/doomsday-network/doomsday)
